@@ -6,7 +6,7 @@
  * By the end of the course you will become familiar with the core principle of opencv and apply different techniques to solve real world problems using computer vision. 
  < pip install cv2 >
  
- [(https://github.com/Jagadambass/ComputerVision/blob/main/Resources/Thumbnail.jpg)]
+ [(https://github.com/Jagadambass/ComputerVision/blob/main/Resources/Thumbnail.jpg)] (https://)
 
 
 # What will you learn ?
@@ -23,7 +23,7 @@
 
 
 |Project|Topic|Image|Description|
-|:----:|:----:|:----:|:----:|:----:|
+|:----:|:----:|:----:|:----:|
 |1| [Virtual Paint](https://github.com/Jagadambass/ComputerVision/blob/main/Project1.py)| <img src="https://github.com/Jagadambass/ComputerVision/blob/main/Tumbnails/project1.gif" width="450" height="150" />    | Detecting Color and using colored marker to draw virtually. </br> |
 |2| [Documnet Scanner](https://github.com/Jagadambass/ComputerVision/blob/main/Project2.py)| <img src="https://github.com/Jagadambass/ComputerVision/blob/main/Tumbnails/project2.gif" width="450" height="150" />     |  In this project we are going to create a simple document scanner using opencv. We will learn how to run this in real time</br> |
 |3|[Number Plate Detector](https://github.com/Jagadambass/ComputerVision/blob/main/Project3.py)| <img src="https://github.com/Jagadambass/ComputerVision/blob/main/Tumbnails/project3.gif" width="450" height="150" />   | In this project we will detect number plates on cars in realtime and save them with a click of a button. </br> |
@@ -34,7 +34,7 @@
 
 
 |Project|Topic|Image|Description|
-|:----:|:----:|:----:|:----:|:----:|
+|:----:|:----:|:----:|:----:|
 |1| [Virtual Paint](https://github.com/Jagadambass/ComputerVision/project1.py)| <img src="https://github.com/Jagadambass/ComputerVision/blob/main/Tumbnails/project1.gif" width="450" height="150" />     | Detecting Color and using colored marker to draw virtually. </br> |
 |2| [Documnet Scanner](https://github.com/Jagadambass/ComputerVision/project2.py)| <img src="https://github.com/Jagadambass/ComputerVision/blob/main/Tumbnails/project2.gif" width="450" height="150" />     |  In this project we are going to create a simple document scanner using opencv. We will learn how to run this in real time</br> |
 |3|[Number Plate Detector](https://github.com/Jagadambass/ComputerVision/project3.py)| <img src="https://github.com/Jagadambass/ComputerVision/blob/main/Tumbnails/project3.gif" width="450" height="150" />     | In this project we will detect number plates on cars in realtime and save them with a click of a button. </br> |
