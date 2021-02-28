@@ -6,7 +6,7 @@
  * By the end of the course you will become familiar with the core principle of opencv and apply different techniques to solve real world problems using computer vision. 
  < pip install cv2 >
  
- [!(https://github.com/Jagadambass/ComputerVision/blob/main/Resources/Thumbnail.jpg)] 
+ [!https://github.com/Jagadambass/ComputerVision/blob/main/Resources/Thumbnail.jpg] 
 
 
 # What will you learn ?
