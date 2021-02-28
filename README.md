@@ -5,3 +5,8 @@
  * So you can get the computer vision skill set you have always wanted in your CV.
  * By the end of the course you will become familiar with the core principle of opencv and apply different techniques to solve real world problems using computer vision. 
  < pip install cv2 >
+ 
+ ##  Download Links:
+  * PyCharm Community edition: https://www.jetbrains.com/pycharm/dow...​
+  * Python: 3.7.6: https://www.python.org/downloads/rele...​
+
