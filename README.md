@@ -6,7 +6,7 @@
  * By the end of the course you will become familiar with the core principle of opencv and apply different techniques to solve real world problems using computer vision. 
  < pip install cv2 >
  
- [!/Thumbnail.jpg)]()
+ [!(https://github.com/Jagadambass/ComputerVision/blob/main/Resources/Thumbnail.jpg)] ()
 
 
 # What will you learn ?
@@ -16,9 +16,7 @@
 |:----:|:----:|:----:|
 |<img src="https://github.com/murtazahassan/Learn-OpenCV-in-3-hours/blob/master/Tumbnails/project1.gif" width="300" height="200" />|<img src="https://github.com/murtazahassan/Learn-OpenCV-in-3-hours/blob/master/Tumbnails/project2.gif" width="300" height="200" />|<img src="https://github.com/murtazahassan/Learn-OpenCV-in-3-hours/blob/master/Tumbnails/project3.gif" width="300" height="200" /> </br>|
 |Contours Detection|Color Detection|Face Detection|
-|<img src="https://github.com/murtazahassan/Learn-OpenCV-in-3-hours/blob/master/Tumbnails/Marker.gif" width="300" height="200" />|<img src="https://github.com/murtazahassan/Learn-OpenCV-in-3-hours/blob/master/Tumbnails/Chapter7.gif" width="300" height="200" />|<img src="https://github.com/murtazahassan/Learn-OpenCV-in-3-hours/blob/master/Tumbnails/Chapter9.gif" width="300" height="200" /> </br>|
-
-
+|<img src="https://github.com/murtazahassan/Learn-OpenCV-in-3-hours/blob/master/Tumbnails/Marker.gif" width="300" height="200" />|
 
 # Prerequisites
 </br>
