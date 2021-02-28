@@ -6,7 +6,7 @@
  * By the end of the course you will become familiar with the core principle of opencv and apply different techniques to solve real world problems using computer vision. 
  < pip install cv2 >
  
- [!(https://github.com/Jagadambass/ComputerVision/blob/main/Resources/Thumbnail.jpg)] ()
+ [(https://github.com/Jagadambass/ComputerVision/blob/main/Resources/Thumbnail.jpg)]
 
 
 # What will you learn ?
@@ -18,13 +18,15 @@
 |Contours Detection|Color Detection|Face Detection|
 |<img src="https://github.com/murtazahassan/Learn-OpenCV-in-3-hours/blob/master/Tumbnails/Marker.gif" width="300" height="200" />|
 
-# Prerequisites
+# Projects
 </br>
 
-|Index|Topic|Image|Description|
+
+|Project|Topic|Image|Description|
 |:----:|:----:|:----:|:----:|:----:|
-|1|Introduction to Images| <img src="https://github.com/Jagadambass/ComputerVision/blob/main/Tumbnails/Installations.gif" width="300" height="150" />    | Basic concept of Images. The RGB Channels and Gray Scale Images.  </br> |
-|2|Installations| <img src="https://github.com/Jagadambass/ComputerVision/blob/main/Tumbnails/Installations.gif" width="300" height="150" />     | Installation process of Pyhton, OpenCV and the Pycharm IDE  </br> |
+|1| [Virtual Paint](https://github.com/Jagadambass/ComputerVision/blob/main/Project1.py)| <img src="https://github.com/Jagadambass/ComputerVision/blob/main/Tumbnails/project1.gif" width="450" height="150" />    | Detecting Color and using colored marker to draw virtually. </br> |
+|2| [Documnet Scanner](https://github.com/Jagadambass/ComputerVision/blob/main/Project2.py)| <img src="https://github.com/Jagadambass/ComputerVision/blob/main/Tumbnails/project2.gif" width="450" height="150" />     |  In this project we are going to create a simple document scanner using opencv. We will learn how to run this in real time</br> |
+|3|[Number Plate Detector](https://github.com/Jagadambass/ComputerVision/blob/main/Project3.py)| <img src="https://github.com/Jagadambass/ComputerVision/blob/main/Tumbnails/project3.gif" width="450" height="150" />   | In this project we will detect number plates on cars in realtime and save them with a click of a button. </br> |
 
 
 # Projects
@@ -40,11 +42,8 @@
 
 # Notes
 </br>
- ##  Download Links:
-  * PyCharm Community edition: https://www.jetbrains.com/pycharm/download/#section=windows
-  * Community
-       For pure Python development
-       Free, open-source
 
-  * Python: 3.7.6: https://www.python.org/downloads/release/python-376/
-
+|Index|Comment|
+|:---|:---|
+|1.|[Recommended IDE: PyCharm Community edition](https://www.jetbrains.com/pycharm/download/)|
+|2.|[Python: 3.7.6](https://www.python.org/downloads/release/python-376/)|
